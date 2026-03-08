@@ -1,3 +1,10 @@
-# Testing Purpose Project
+"""
+Main application entry point for the Testing Purpose project.
+"""
 
-This is a simple Python project structure for demonstration purposes.
+def main():
+    """Main function."""
+    print("hello rajneesh")
+
+if __name__ == "__main__":
+    main()
